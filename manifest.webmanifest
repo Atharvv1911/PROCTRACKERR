@@ -1,9 +1,0 @@
-{
-  "name": "Proctracker",
-  "short_name": "Proctracker",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#10131b",
-  "theme_color": "#10131b",
-  "icons": []
-}
